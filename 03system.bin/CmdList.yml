@@ -1,3 +1,27 @@
+- Id: 73
+  Execute: 73
+  Argument: 73
+  SubMenu: 8
+  CmdIcon: Friend
+  MessageId: 34053
+  Flags: Cursor, Land, Battle
+  Range: -1.0
+  Dir: 0.0
+  DirRange: -1.0
+  Cost: 0
+  CmdCamera: Null
+  Priority: 100
+  CmdReceiver: Player
+  Time: 0
+  Require: 0
+  Mark: 1
+  CmdAction: Null
+  ReactionCount: 0
+  DistRange: 0
+  Score: 0
+  DisableForm: 63552
+  Group: 0
+  Reserve: 0
 - Id: 297 #Key Counter
   Execute: 297
   Argument: 297
