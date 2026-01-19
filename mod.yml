@@ -1,6 +1,6 @@
 title: Master Only
 original Author: Shananas
-description: Play as Master Form the whole time. (Except Pride Lands and Atlantica)
+description: Play as Master Form the whole time (Except Pride Lands and Atlantica). If you want to play without KH2Randomizer you must also install "shananas/FormOnlyVanillaCompanion" and place it above this mod.
 assets:
 #Luxord Fix
 - name: scripts/MasterLuxordFix.lua
@@ -58,4 +58,5 @@ assets:
     method: listpatch
     source:
     - name: 00battle.bin/PlrpList.yml
+
       type: plrp
